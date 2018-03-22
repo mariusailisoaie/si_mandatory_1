@@ -4,6 +4,15 @@ Student names:
 Tudor Caseru
 Marius Ailisoaie
 
+• Summary of application development:
+1. Created server:
+    - created the soap functionality using the node package named soap
+    - created the rest functionality using the node package named express
+    - created a variable that defines all the offered services
+    - read the wsdl file and send it to the client on request
+
+2. 
+
 • Installation instructions:
 
 1. Install Node.js

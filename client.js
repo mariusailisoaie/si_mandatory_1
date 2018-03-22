@@ -22,5 +22,4 @@ const T = new Twit({
 
 T.get('search/tweets', { q: 'romania since:2018-03-22', count: 1 }, function(err, data, response) {
     console.log(data.statuses[0].text);
-    
 });

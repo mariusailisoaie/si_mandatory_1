@@ -11,7 +11,11 @@ Marius Ailisoaie
     - created a variable that defines all the offered services
     - read the wsdl file and send it to the client on request
 
-2. 
+2. Created the client:
+    - added the soap functionality for the client using the node package named soap
+    - added the tweeter functionality for the client using the node package named twit
+    - after the required settings have been done, the client is ready to make requests
+    - after the client has been started and perfomed the requests, it gets the responses and outputs them to the console
 
 • Installation instructions:
 
